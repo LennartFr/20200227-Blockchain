@@ -6,3 +6,5 @@
 
 ## Install IBM Blockchain Platform Extension for VS Code https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform
 
+
+## Bring up Visual Studio Code on your laptop: 
